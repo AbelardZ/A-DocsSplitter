@@ -1,0 +1,12 @@
+name: Docx_Splitter
+title: Docx_Splitter
+username: zhanghaoyan
+account: zhanghaoyan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13759387
+bundleId: 9672566
+url: https://zhanghaoyan.shinyapps.io/Docx_Splitter/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
